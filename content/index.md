@@ -1,3 +1,3 @@
 +++
-title = "abc"
+title = "being a minority at reed"
 +++
