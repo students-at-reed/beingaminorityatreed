@@ -26,7 +26,7 @@ highlight_code = true
 # Put all your custom variables here
 
 anpu_menu_links = [
-    { url = "/https://docs.google.com/forms/d/e/1FAIpQLSe7O3QeXFi1oTrLoPXVovE3hheQEaJHoin8oRPjOnlCAl2ZDg/viewform?usp=sf_link", name = "submit" },
+    { url = "https://docs.google.com/forms/d/e/1FAIpQLSe7O3QeXFi1oTrLoPXVovE3hheQEaJHoin8oRPjOnlCAl2ZDg/viewform?usp=sf_link", name = "add from your experience" },
 #    { url = "$BASE_URL/about/", name = "about" },
 ]
 
