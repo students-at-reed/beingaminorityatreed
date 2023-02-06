@@ -25,8 +25,9 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
-#anpu_menu_links = [
-#    { url = "$BASE_URL/about/", name = "About" },
-#]
+anpu_menu_links = [
+    { url = "/https://docs.google.com/forms/d/e/1FAIpQLSe7O3QeXFi1oTrLoPXVovE3hheQEaJHoin8oRPjOnlCAl2ZDg/viewform?usp=sf_link", name = "submit" },
+#    { url = "$BASE_URL/about/", name = "about" },
+]
 
 anpu_date_format = "%e %B %Y"

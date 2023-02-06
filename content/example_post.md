@@ -1,5 +1,5 @@
 +++
-title = "Certain words"
+title = "certain words"
 date = 2023-02-05
 +++
 
